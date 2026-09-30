@@ -1,0 +1,9 @@
+Age,Sex,BMI,Children,Smoker,Region,Cholesterol,BP,Charges
+19,MALE,27.9,0,YES,southwest,180,120/80,$16884.92
+18,female,33.77,1,no,Southeast,150,110/70,1725.55
+28,M,33.0,3,No,southeast,200mg,130/85,4449.46
+33,male,22.705,0,NO,northwest,170,120/80,21984.47
+32,M,28.88,0,no,northwest,210,140/90,3866.86
+31,F,25.74,0,no,southeast,160,110/75,3756.62
+46,female,33.44,1,no,southeast,190,130/80,8240.59
+37,F,27.74,3,no,northwest,180,120/70,7281.51
